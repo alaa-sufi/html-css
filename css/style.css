@@ -147,7 +147,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -160,7 +160,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -372,21 +372,21 @@ a:focus {
 .slider_section .find_container form .btn-box button.btn {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   -moz-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #e41a2b;
+  border: 1px solid #1ae4b5;
   outline: none;
   text-transform: uppercase;
 }
 
 .slider_section .find_container form .btn-box button.btn:hover {
   background-color: transparent;
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .slider_section .find_container .nice-select:after {
@@ -496,8 +496,18 @@ a:focus {
   background: white;
   width: 2px;
   height: 2px;
-  -webkit-box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
-          box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
+  -webkit-box-shadow: 2px 0 0 white,
+ 4px 0 0 white,
+ 4px -2px 0 white,
+ 4px -4px 0 white,
+ 4px -6px 0 white,
+ 4px -8px 0 white;
+          box-shadow: 2px 0 0 white,
+ 4px 0 0 white,
+ 4px -2px 0 white,
+ 4px -4px 0 white,
+ 4px -6px 0 white,
+ 4px -8px 0 white;
   -webkit-transform: rotate(45deg);
      -moz-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
@@ -521,7 +531,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   padding: 35px 15px;
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
   color: #ffffff;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
@@ -746,20 +756,20 @@ a:focus {
 .job_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   -moz-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #e41a2b;
+  border: 1px solid #1ae4b5;
   outline: none;
 }
 
 .job_section .btn-box a:hover {
   background-color: transparent;
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .expert_section .box {
@@ -837,20 +847,20 @@ a:focus {
 .expert_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   -moz-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #e41a2b;
+  border: 1px solid #1ae4b5;
   outline: none;
 }
 
 .expert_section .btn-box a:hover {
   background-color: transparent;
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 /* blog section end */
@@ -928,7 +938,7 @@ a:focus {
 }
 
 .blog_section .box .detail-box .blog_info a:hover {
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .blog_section .box .detail-box .blog_text h4 {
@@ -942,7 +952,7 @@ a:focus {
 }
 
 .blog_section .box .detail-box a.blog_btn {
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 /* blog section end */
@@ -962,7 +972,7 @@ a:focus {
 }
 
 .info_section .info_links ul .active::before {
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
 }
 
 .info_section .info_links ul li {
@@ -990,7 +1000,7 @@ a:focus {
 }
 
 .info_section .info_links ul li:hover::before {
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
 }
 
 .info_section .info_form input {
@@ -1007,20 +1017,20 @@ a:focus {
 .info_section .info_form button {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e41a2b;
+  background-color: #1ae4b5;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   -moz-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #e41a2b;
+  border: 1px solid #1ae4b5;
   outline: none;
 }
 
 .info_section .info_form button:hover {
   background-color: transparent;
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 .info_section .info_social .social_container {
@@ -1053,7 +1063,7 @@ a:focus {
 }
 
 .info_section .info_social .social_container a:hover {
-  color: #e41a2b;
+  color: #1ae4b5;
 }
 
 /* footer section*/
